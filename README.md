@@ -56,8 +56,3 @@
 [<img src="https://img.shields.io/badge/-josue.ga00@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28"/>](mailto:josue.ga00@gmail.com)
 
 </div>
-
-<!-- Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
-</div>
