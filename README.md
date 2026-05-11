@@ -1,11 +1,6 @@
-<!-- Header -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Josué%20García%20Asensi&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20·%20AI&descAlignY=58&descSize=18&descColor=a0c4ff" width="100%"/>
-</div>
-
 <!-- Intro -->
 <div align="center">
-  <h3>👋 Hey, I'm Josué</h3>
+  <h3>👋 Hey!</h3>
   <p>
     Frontend developer based in Alicante 🇪🇸, raised in China 🇨🇳.<br/>
     I build web apps, cross-platform mobile apps, and keep learning every day.<br/>
